@@ -1,0 +1,7 @@
+CHGMOD equ 05fh
+CHPUT equ 0a2h
+CLS equ 0c3h
+LOOP equ 0401eh
+PUTS equ 04021h
+START equ 04010h
+S_HELLO equ 0402ah
